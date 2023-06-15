@@ -57,7 +57,7 @@
   <img align="left" width="200" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
   
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmddn0322)](https://solved.ac/dltmddn0322)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vldzm4268)](https://solved.ac/vldzm4268/)
   <img align="right" width="200" src="https://tenor.com/ko/view/snoopy-what-gif-8753995.gif">
  
 </div>
