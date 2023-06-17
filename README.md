@@ -39,7 +39,7 @@
 
 <div align="center">
   
-  <a href="[https://velog.io/@vldzm4268]">
+  <a href="https://velog.io/@vldzm4268">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
   
