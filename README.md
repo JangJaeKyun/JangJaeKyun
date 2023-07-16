@@ -27,10 +27,10 @@
 </div>
 
 <div align="center">
-<img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
+
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
+  <img align="right" width="100" src="https://media.tenor.com/7SE3IKEub60AAAAi/shinchan.gif">
 </div>
 
 #
